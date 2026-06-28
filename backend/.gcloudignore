@@ -1,0 +1,12 @@
+# Keep local credentials and generated files out of Cloud Build uploads.
+.env
+.env.*
+!.env.example
+.git/
+target/
+uploads/
+*.log
+hs_err_pid*
+replay_pid*
+.demo-seed-token.tmp
+.cloudrun-env.yaml

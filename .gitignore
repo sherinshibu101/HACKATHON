@@ -1,0 +1,33 @@
+# Local credentials
+**/.env
+**/.env.*
+!**/.env.example
+
+# Dependencies and build output
+**/node_modules/
+**/target/
+**/dist/
+**/coverage/
+*.class
+*.jar
+
+# Runtime data and deployment caches
+backend/uploads/
+**/.firebase/
+*.log
+*.pid
+*.tmp
+hs_err_pid*
+replay_pid*
+**/.demo-seed-token.tmp
+**/.cloudrun-env.yaml
+
+# Editor and operating-system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Local agent workspace metadata
+.agents/

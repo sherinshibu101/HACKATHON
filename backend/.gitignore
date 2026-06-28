@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+target/
+uploads/
+*.log
+hs_err_pid*
+replay_pid*
+.demo-seed-token.tmp
+.cloudrun-env.yaml

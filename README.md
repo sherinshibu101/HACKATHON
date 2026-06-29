@@ -1,4 +1,3 @@
-````markdown
 # 🏙️ Community Hero AI
 
 An AI-powered hyperlocal civic platform that helps citizens **report, validate, track, and resolve community infrastructure issues** transparently.
@@ -151,4 +150,3 @@ npm run dev
 - Secrets and generated files excluded from Git
 
 ---
-````

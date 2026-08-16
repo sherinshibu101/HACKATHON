@@ -9,7 +9,7 @@ An AI-powered hyperlocal civic platform that helps citizens **report, validate, 
 ![MySQL](https://img.shields.io/badge/MySQL-8-blue)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Deployed-4285F4)
 ![Gemini](https://img.shields.io/badge/AI-Google%20Gemini-8E75B2)
-
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 ---
 
 > **Live Application:** [Community Hero AI](https://project-eb406bb8-8a69-4442-937.web.app)
@@ -150,3 +150,7 @@ npm run dev
 - Secrets and generated files excluded from Git
 
 ---
+
+## 📄 License
+
+This project is licensed under the **Apache License 2.0** (or **MIT License**) - see the [LICENSE](LICENSE) file for details.
